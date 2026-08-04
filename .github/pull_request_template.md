@@ -1,4 +1,4 @@
-## Checklist
+# Pull Request Checklist
 
 - [ ] The resource is relevant to AI evaluation.
 - [ ] The URL works and points to the intended resource.
@@ -8,4 +8,5 @@
 
 ## Notes
 
-Please describe any important limitations, access requirements, or changes that reviewers should know about.
+Please describe any important limitations, access requirements, or changes
+that reviewers should know about.

@@ -6,7 +6,10 @@
 
 ## Start Here
 
-If you are new to AI evaluation, begin with **[Evaluation Fundamentals](#evaluation-fundamentals)**, then use the methodology and metrics sections to choose an approach that fits your system and evaluation goals. Each entry should explain what the resource is and why it is useful.
+If you are new to AI evaluation, begin with **[Evaluation Fundamentals](#evaluation-fundamentals)**,
+then use the methodology and metrics sections to choose an approach that fits
+your system and evaluation goals. Each entry should explain what the resource
+is and why it is useful.
 
 ## Table of Contents
 
@@ -27,73 +30,85 @@ If you are new to AI evaluation, begin with **[Evaluation Fundamentals](#evaluat
 
 ## Evaluation Fundamentals
 
-Resources that explain the goals, scope, and core concepts of evaluating AI systems.
+Resources that explain the goals, scope, and core concepts of evaluating AI
+systems.
 
 _Resources will be added here._
 
 ## Evaluation Methodology
 
-Resources on designing reliable evaluations, selecting test cases, comparing systems, and interpreting results.
+Resources on designing reliable evaluations, selecting test cases, comparing
+systems, and interpreting results.
 
 _Resources will be added here._
 
 ## Metrics
 
-Definitions and practical guidance for measuring quality, reliability, efficiency, and other evaluation dimensions.
+Definitions and practical guidance for measuring quality, reliability,
+efficiency, and other evaluation dimensions.
 
 _Resources will be added here._
 
 ## Datasets and Benchmarks
 
-Curated datasets and benchmark suites for testing specific capabilities or comparing model performance.
+Curated datasets and benchmark suites for testing specific capabilities or
+comparing model performance.
 
 _Resources will be added here._
 
 ## LLM-as-a-Judge
 
-Research and tools for using language models as evaluators, including guidance on calibration, bias, and limitations.
+Research and tools for using language models as evaluators, including guidance
+on calibration, bias, and limitations.
 
 _Resources will be added here._
 
 ## Human Evaluation
 
-Resources on rubric design, annotation workflows, evaluator training, quality control, and agreement.
+Resources on rubric design, annotation workflows, evaluator training, quality
+control, and agreement.
 
 _Resources will be added here._
 
 ## Agent Evaluation
 
-Resources for evaluating systems that plan, use tools, interact with environments, or complete multi-step tasks.
+Resources for evaluating systems that plan, use tools, interact with
+environments, or complete multi-step tasks.
 
 _Resources will be added here._
 
 ## RAG Evaluation
 
-Resources for evaluating retrieval-augmented generation, including retrieval quality, grounding, attribution, and answer quality.
+Resources for evaluating retrieval-augmented generation, including retrieval
+quality, grounding, attribution, and answer quality.
 
 _Resources will be added here._
 
 ## Safety and Red Teaming
 
-Resources for testing harmful behavior, misuse resistance, robustness, security, and other safety properties.
+Resources for testing harmful behavior, misuse resistance, robustness,
+security, and other safety properties.
 
 _Resources will be added here._
 
 ## Evaluation Frameworks and Tools
 
-Maintained frameworks, libraries, and utilities that support repeatable AI evaluation workflows.
+Maintained frameworks, libraries, and utilities that support repeatable AI
+evaluation workflows.
 
 _Resources will be added here._
 
 ## Papers and Surveys
 
-Research papers and surveys that provide useful findings, methods, taxonomies, or evidence for AI evaluation.
+Research papers and surveys that provide useful findings, methods, taxonomies,
+or evidence for AI evaluation.
 
 _Resources will be added here._
 
 ## Courses, Talks, and Guides
 
-Educational material that helps practitioners learn how to design, run, and interpret AI evaluations.
+Educational material that helps practitioners learn how to design, run, and
+interpret AI evaluations.
 
 _Resources will be added here._
 
