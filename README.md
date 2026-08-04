@@ -114,7 +114,9 @@ _Resources will be added here._
 
 ## Contributing
 
-Suggestions and improvements are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the submission format and review guidelines.
+Suggestions and improvements are welcome. See
+[CONTRIBUTING.md](CONTRIBUTING.md) for the submission format and review
+guidelines.
 
 ## License
 

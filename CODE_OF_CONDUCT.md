@@ -14,7 +14,8 @@ diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contribute to a positive environment for our community include:
+Examples of behavior that contribute to a positive environment for our
+community include:
 
 - Demonstrating empathy and kindness toward other people.
 - Being respectful of differing opinions, viewpoints, and experiences.
@@ -57,6 +58,7 @@ address, posting through an official social media account, or acting as an
 appointed representative at an online or offline event.
 
 ## Enforcement
+
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the repository maintainers through GitHub. All complaints will be
 reviewed and investigated promptly and fairly.
@@ -66,6 +68,7 @@ reporter of any incident.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][contributor-covenant-version], version 2.1.
+This Code of Conduct is adapted from the [Contributor Covenant]
+[contributor-covenant-version], version 2.1.
 
 [contributor-covenant-version]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
