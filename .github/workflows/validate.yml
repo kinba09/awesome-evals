@@ -1,0 +1,30 @@
+name: Validate
+
+on:
+  pull_request:
+  push:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check for duplicate resources
+        run: python scripts/check_duplicates.py
+
+      - name: Validate Markdown
+        run: npx --yes markdownlint-cli2@0.18.1 README.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md
+
+      - name: Check links
+        run: npx --yes markdown-link-check@3.13.7 README.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md
