@@ -75,7 +75,8 @@ _Resources will be added here._
 Resources for evaluating systems that plan, use tools, interact with
 environments, or complete multi-step tasks.
 
-_Resources will be added here._
+- [Agent Evaluation: A Detailed Guide](https://cameronrwolfe.substack.com/p/agent-evals) — A long-form guide to agent evaluation covering system components, evaluation harnesses, graders, and benchmark case studies. `Article` · `Free to read`
+- [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) — A practical roadmap covering reasoning and action layers, deterministic and model-based grading, non-determinism, and production monitoring. `Article` · `Free to read`
 
 ## RAG Evaluation
 
@@ -96,7 +97,7 @@ _Resources will be added here._
 Maintained frameworks, libraries, and utilities that support repeatable AI
 evaluation workflows.
 
-_Resources will be added here._
+- [DeepEval](https://deepeval.com/docs/introduction) — An open-source Python framework for LLM application evaluation with unit-test-style assertions, ready-to-use metrics, component and end-to-end evaluations, and local execution. `Framework` · `Apache-2.0`
 
 ## Papers and Surveys
 
@@ -110,7 +111,7 @@ _Resources will be added here._
 Educational material that helps practitioners learn how to design, run, and
 interpret AI evaluations.
 
-_Resources will be added here._
+- [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) — A forthcoming O'Reilly book page about systematic testing and improving AI application reliability; its table of contents is marked not yet final and full access may require a subscription. `Book` · `Paid/Subscription`
 
 ## Contributing
 
