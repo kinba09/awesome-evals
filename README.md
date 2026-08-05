@@ -75,9 +75,11 @@ _Resources will be added here._
 Resources for evaluating systems that plan, use tools, interact with
 environments, or complete multi-step tasks.
 
+<!-- markdownlint-disable-next-line MD013 -->
 - [Agent Evaluation: A Detailed Guide](https://cameronrwolfe.substack.com/p/agent-evals) — A long-form guide to agent evaluation covering system
   components, evaluation harnesses, graders, and benchmark case studies.
   `Article` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
 - [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) — A practical roadmap covering reasoning and action layers,
   deterministic and model-based grading, non-determinism, and production
   monitoring. `Article` · `Free to read`
@@ -118,6 +120,7 @@ _Resources will be added here._
 Educational material that helps practitioners learn how to design, run, and
 interpret AI evaluations.
 
+<!-- markdownlint-disable-next-line MD013 -->
 - [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) — A forthcoming O'Reilly book page about systematic testing
   and improving AI application reliability; its table of contents is marked
   not yet final and full access may require a subscription. `Book` ·
