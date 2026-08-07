@@ -40,7 +40,8 @@ _Resources will be added here._
 Resources on designing reliable evaluations, selecting test cases, comparing
 systems, and interpreting results.
 
-_Resources will be added here._
+<!-- markdownlint-disable-next-line MD013 -->
+- [A Comprehensive Guide to LLM Evaluations](https://caylent.com/blog/a-comprehensive-guide-to-llm-evaluations) — A vendor-authored overview of reference-based, programmatic, human, and model-based evaluation, with guidance on judge calibration and continuous regression testing. `Article` · `Free to read`
 
 ## Metrics
 
