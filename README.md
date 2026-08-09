@@ -48,7 +48,8 @@ systems, and interpreting results.
 Definitions and practical guidance for measuring quality, reliability,
 efficiency, and other evaluation dimensions.
 
-_Resources will be added here._
+<!-- markdownlint-disable-next-line MD013 -->
+- [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation) — A vendor-authored guide to selecting metrics across programmatic, model-based, RAG, agent, and multi-turn evaluations, with discussions of G-Eval and metric limitations. `Article` · `Free to read`
 
 ## Datasets and Benchmarks
 
