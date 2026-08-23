@@ -56,7 +56,8 @@ efficiency, and other evaluation dimensions.
 Curated datasets and benchmark suites for testing specific capabilities or
 comparing model performance.
 
-_Resources will be added here._
+<!-- markdownlint-disable-next-line MD013 -->
+- [30 LLM Evaluation Benchmarks and How They Work](https://www.evidentlyai.com/llm-guide/llm-benchmarks) — An overview of benchmark design and common LLM benchmarks, with links to datasets and papers; notes contamination, narrow coverage, and benchmark staleness as limitations. `Guide` · `Free to read`
 
 ## LLM-as-a-Judge
 
