@@ -58,6 +58,8 @@ comparing model performance.
 
 <!-- markdownlint-disable-next-line MD013 -->
 - [30 LLM Evaluation Benchmarks and How They Work](https://www.evidentlyai.com/llm-guide/llm-benchmarks) — An overview of benchmark design and common LLM benchmarks, with links to datasets and papers; notes contamination, narrow coverage, and benchmark staleness as limitations. `Guide` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [250 LLM Benchmarks and Evaluation Datasets](https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets) — A database of LLM benchmarks and public datasets tagged by capabilities such as reasoning, coding, safety, multimodality, and tool use; useful for discovery, but not a substitute for product-specific evaluations. `Database` · `Free to read`
 
 ## LLM-as-a-Judge
 
