@@ -90,6 +90,8 @@ environments, or complete multi-step tasks.
   monitoring. `Article` · `Free to read`
 <!-- markdownlint-disable-next-line MD013 -->
 - [Building Closed-Loop Evals for a Multimodal Agent at Scale](https://www.youtube.com/watch?v=31GUkCBD-Uc) — A talk by Uber engineers on designing evaluations for a multimodal food-enhancement agent, including practical pitfalls and lessons learned. `Video` · `Free to watch`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Stanford CS329A: Agentic Evaluations and Long-Horizon Tasks](https://www.youtube.com/watch?v=8JAqLnTaZu4) — A Stanford lecture covering METR task horizons, GDPval, DeepScholar-Bench, and recurring long-horizon agent failure modes. `Video` · `Free to watch`
 
 ## RAG Evaluation
 
