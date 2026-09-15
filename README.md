@@ -88,6 +88,8 @@ environments, or complete multi-step tasks.
 - [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) — A practical roadmap covering reasoning and action layers,
   deterministic and model-based grading, non-determinism, and production
   monitoring. `Article` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Building Closed-Loop Evals for a Multimodal Agent at Scale](https://www.youtube.com/watch?v=31GUkCBD-Uc) — A talk by Uber engineers on designing evaluations for a multimodal food-enhancement agent, including practical pitfalls and lessons learned. `Video` · `Free to watch`
 
 ## RAG Evaluation
 
