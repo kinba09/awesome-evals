@@ -66,8 +66,6 @@ comparing model performance.
 Research and tools for using language models as evaluators, including guidance
 on calibration, bias, and limitations.
 
-_Resources will be added here._
-
 ## Human Evaluation
 
 Resources on rubric design, annotation workflows, evaluator training, quality
@@ -122,7 +120,8 @@ evaluation workflows.
 Research papers and surveys that provide useful findings, methods, taxonomies,
 or evidence for AI evaluation.
 
-_Resources will be added here._
+<!-- markdownlint-disable-next-line MD013 -->
+- [METR Research](https://metr.org/research/) — A research index from the nonprofit METR covering autonomous capability evaluations, long-horizon tasks, AI R&D benchmarks, evaluation integrity, and frontier AI safety. `Research index` · `Free to read`
 
 ## Courses, Talks, and Guides
 
