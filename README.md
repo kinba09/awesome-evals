@@ -60,6 +60,10 @@ comparing model performance.
 - [30 LLM Evaluation Benchmarks and How They Work](https://www.evidentlyai.com/llm-guide/llm-benchmarks) — An overview of benchmark design and common LLM benchmarks, with links to datasets and papers; notes contamination, narrow coverage, and benchmark staleness as limitations. `Guide` · `Free to read`
 <!-- markdownlint-disable-next-line MD013 -->
 - [250 LLM Benchmarks and Evaluation Datasets](https://www.evidentlyai.com/llm-evaluation-benchmarks-datasets) — A database of LLM benchmarks and public datasets tagged by capabilities such as reasoning, coding, safety, multimodality, and tool use; useful for discovery, but not a substitute for product-specific evaluations. `Database` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Artificial Analysis Evaluations](https://artificialanalysis.ai/evaluations) — A public catalog of independent model evaluations and benchmark leaderboards spanning reasoning, coding, tool use, long context, multimodality, and agentic capabilities. `Evaluation catalog` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Google DeepMind Evals](https://deepmind.google/research/evals/) — A catalog of Google DeepMind benchmarks covering robotics safety, factuality, grounding, deep search, reasoning, and long-context tasks, with links to papers, datasets, and leaderboards. `Benchmark catalog` · `Free to read`
 
 ## LLM-as-a-Judge
 
