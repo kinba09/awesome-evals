@@ -137,6 +137,8 @@ interpret AI evaluations.
   and improving AI application reliability; its table of contents is marked
   not yet final and full access may require a subscription. `Book` ·
   `Paid/Subscription`
+<!-- markdownlint-disable-next-line MD013 -->
+- [AI Evals Advanced Masterclass in Under 57 Minutes](https://www.youtube.com/watch?v=ztN6bE_FuQQ) — A masterclass with Daniel McKinnon on building agentic evals, including offline testing, task-based evaluation, domain expertise, and repeated sampling. `Video` · `Free to watch`
 
 ## Contributing
 
