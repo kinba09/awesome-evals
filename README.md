@@ -43,6 +43,9 @@ systems, and interpreting results.
 <!-- markdownlint-disable-next-line MD013 -->
 - [A Comprehensive Guide to LLM Evaluations](https://caylent.com/blog/a-comprehensive-guide-to-llm-evaluations) — A vendor-authored overview of reference-based, programmatic, human, and model-based evaluation, with guidance on judge calibration and continuous regression testing. `Article` · `Free to read`
 
+<!-- markdownlint-disable-next-line MD013 -->
+- [AI Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/#how-to-use-this-faq) — A practical FAQ covering eval fundamentals, error analysis, evaluator design, human annotation, tooling, production use, and domain-specific workflows. `FAQ` · `Free to read`
+
 ## Metrics
 
 Definitions and practical guidance for measuring quality, reliability,
