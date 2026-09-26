@@ -20,6 +20,7 @@ is and why it is useful.
 - [LLM-as-a-Judge](#llm-as-a-judge)
 - [Human Evaluation](#human-evaluation)
 - [Agent Evaluation](#agent-evaluation)
+- [RL Environments](#rl-environments)
 - [RAG Evaluation](#rag-evaluation)
 - [Safety and Red Teaming](#safety-and-red-teaming)
 - [Evaluation Frameworks and Tools](#evaluation-frameworks-and-tools)
@@ -97,6 +98,14 @@ environments, or complete multi-step tasks.
 - [Building Closed-Loop Evals for a Multimodal Agent at Scale](https://www.youtube.com/watch?v=31GUkCBD-Uc) — A talk by Uber engineers on designing evaluations for a multimodal food-enhancement agent, including practical pitfalls and lessons learned. `Video` · `Free to watch`
 <!-- markdownlint-disable-next-line MD013 -->
 - [Stanford CS329A: Agentic Evaluations and Long-Horizon Tasks](https://www.youtube.com/watch?v=8JAqLnTaZu4) — A Stanford lecture covering METR task horizons, GDPval, DeepScholar-Bench, and recurring long-horizon agent failure modes. `Video` · `Free to watch`
+
+## RL Environments
+
+Resources on building, comparing, and scaling reinforcement learning
+environments used to train and evaluate language model agents.
+
+<!-- markdownlint-disable-next-line MD013 -->
+- [The Ultimate Guide to RL Environments: Building and Scaling Them in the LLM Era](https://huggingface.co/spaces/AdithyaSK/rl-environments-guide#introduction) — A Hugging Face guide comparing environment frameworks, reward design, and scaling approaches for LLM training; it notes that framework APIs and ecosystem maturity are changing quickly. `Guide` · `Free to read`
 
 ## RAG Evaluation
 
