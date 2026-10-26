@@ -151,6 +151,8 @@ interpret AI evaluations.
   `Paid/Subscription`
 <!-- markdownlint-disable-next-line MD013 -->
 - [AI Evals Advanced Masterclass in Under 57 Minutes](https://www.youtube.com/watch?v=ztN6bE_FuQQ) — A masterclass with Daniel McKinnon on building agentic evals, including offline testing, task-based evaluation, domain expertise, and repeated sampling. `Video` · `Free to watch`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Stanford CME 295: LLM Evaluation (Autumn 2025, Lecture 8)](https://youtu.be/8fNP4N46RRo) — A Stanford lecture covering human agreement, rule-based metrics, LLM judges and their biases, agent evaluation, and benchmark examples. `Video` · `Free to watch`
 
 ## Contributing
 
