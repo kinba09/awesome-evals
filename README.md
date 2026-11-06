@@ -91,6 +91,8 @@ environments, or complete multi-step tasks.
   components, evaluation harnesses, graders, and benchmark case studies.
   `Article` · `Free to read`
 <!-- markdownlint-disable-next-line MD013 -->
+- [Evaluating Agents on Highly Subjective Tasks](https://cameronrwolfe.substack.com/p/subjective-evals) — A practical guide to human review, calibrated LLM judges, uncertainty estimates, evaluation data selection, and production monitoring for subjective agent tasks. `Article` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
 - [The Roadmap to Mastering AI Agent Evaluation](https://machinelearningmastery.com/the-roadmap-to-mastering-ai-agent-evaluation/) — A practical roadmap covering reasoning and action layers,
   deterministic and model-based grading, non-determinism, and production
   monitoring. `Article` · `Free to read`
