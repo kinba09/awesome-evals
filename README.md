@@ -20,6 +20,7 @@ is and why it is useful.
 - [LLM-as-a-Judge](#llm-as-a-judge)
 - [Human Evaluation](#human-evaluation)
 - [Agent Evaluation](#agent-evaluation)
+- [Voice Evaluation](#voice-evaluation)
 - [RL Environments](#rl-environments)
 - [RAG Evaluation](#rag-evaluation)
 - [Safety and Red Teaming](#safety-and-red-teaming)
@@ -68,6 +69,8 @@ comparing model performance.
 - [Artificial Analysis Evaluations](https://artificialanalysis.ai/evaluations) — A public catalog of independent model evaluations and benchmark leaderboards spanning reasoning, coding, tool use, long context, multimodality, and agentic capabilities. `Evaluation catalog` · `Free to read`
 <!-- markdownlint-disable-next-line MD013 -->
 - [Google DeepMind Evals](https://deepmind.google/research/evals/) — A catalog of Google DeepMind benchmarks covering robotics safety, factuality, grounding, deep search, reasoning, and long-context tasks, with links to papers, datasets, and leaderboards. `Benchmark catalog` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Coval Voice AI Benchmarks](https://benchmarks.coval.ai/overview) — A catalog comparing speech-to-text, text-to-speech, and speech-to-speech models using shared datasets and metrics; results reflect the benchmark's test conditions and may not predict production traffic. `Benchmark catalog` · `Free to read`
 
 ## LLM-as-a-Judge
 
@@ -100,6 +103,14 @@ environments, or complete multi-step tasks.
 - [Building Closed-Loop Evals for a Multimodal Agent at Scale](https://www.youtube.com/watch?v=31GUkCBD-Uc) — A talk by Uber engineers on designing evaluations for a multimodal food-enhancement agent, including practical pitfalls and lessons learned. `Video` · `Free to watch`
 <!-- markdownlint-disable-next-line MD013 -->
 - [Stanford CS329A: Agentic Evaluations and Long-Horizon Tasks](https://www.youtube.com/watch?v=8JAqLnTaZu4) — A Stanford lecture covering METR task horizons, GDPval, DeepScholar-Bench, and recurring long-horizon agent failure modes. `Video` · `Free to watch`
+
+## Voice Evaluation
+
+Resources for evaluating voice AI systems across speech, conversation, and
+real-world call conditions.
+
+<!-- markdownlint-disable-next-line MD013 -->
+- [Voice AI Agent Evaluation: The Complete Guide](https://www.coval.ai/blog/voice-ai-agent-evaluation-guide/) — A vendor-authored guide to voice-agent evaluation, from call review and simulated personas to automated regression checks, human review, and production monitoring. `Article` · `Free to read`
 
 ## RL Environments
 
