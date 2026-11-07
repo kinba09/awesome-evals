@@ -57,6 +57,8 @@ efficiency, and other evaluation dimensions.
 - [LLM Evaluation Metrics: The Ultimate LLM Evaluation Guide](https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation) — A vendor-authored guide to selecting metrics across programmatic, model-based, RAG, agent, and multi-turn evaluations, with discussions of G-Eval and metric limitations. `Article` · `Free to read`
 <!-- markdownlint-disable-next-line MD013 -->
 - [A List of Metrics for Evaluating LLM-Generated Content](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics) — A Microsoft overview of reference-based, reference-free, LLM-based, code, and RAG metrics; last updated in June 2024, and the page may require sign-in. `Article` · `Access may require sign-in`
+<!-- markdownlint-disable-next-line MD013 -->
+- [AI Eval Metrics: Beyond Accuracy Scores](https://www.statsig.com/perspectives/ai-eval-metrics-beyond-accuracy) — A vendor-authored guide to evaluating reliability, robustness, fairness, uncertainty, and user outcomes alongside accuracy, with suggestions for online experiments. `Article` · `Free to read`
 
 ## Datasets and Benchmarks
 
@@ -153,6 +155,8 @@ or evidence for AI evaluation.
 
 <!-- markdownlint-disable-next-line MD013 -->
 - [METR Research](https://metr.org/research/) — A research index from the nonprofit METR covering autonomous capability evaluations, long-horizon tasks, AI R&D benchmarks, evaluation integrity, and frontier AI safety. `Research index` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Braintrust Eval Research](https://www.braintrust.dev/evals) — A vendor-published collection of model and agent evaluation studies with open methodologies, published datasets, and code to rerun studies. `Research collection` · `Free to read`
 
 ## Courses, Talks, and Guides
 
