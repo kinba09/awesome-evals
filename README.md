@@ -36,9 +36,17 @@ benchmarking, agent, reinforcement learning, and post-training terminology.
 ## Evaluation Fundamentals
 
 Resources that explain the goals, scope, and core concepts of evaluating AI
-systems.
+systems. Start with the FAQ, then watch the lecture for a structured overview.
 
-_Resources will be added here._
+<!-- markdownlint-disable-next-line MD013 -->
+- [AI Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/#how-to-use-this-faq) — A practical starting point explaining what evals are, how product evals
+  differ from model benchmarks, and how to build a minimum viable evaluation
+  setup. Also covers error analysis and validating automated evaluators.
+  `FAQ` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [Stanford CME 295: LLM Evaluation (Autumn 2025, Lecture 8)](https://youtu.be/8fNP4N46RRo) — A lecture introducing evaluation goals, human agreement, rule-based
+  metrics, LLM judges and their biases, agent evaluation, and benchmarks.
+  `Video` · `Free to watch`
 
 ## Evaluation Methodology
 
@@ -47,9 +55,6 @@ systems, and interpreting results.
 
 <!-- markdownlint-disable-next-line MD013 -->
 - [A Comprehensive Guide to LLM Evaluations](https://caylent.com/blog/a-comprehensive-guide-to-llm-evaluations) — A vendor-authored overview of reference-based, programmatic, human, and model-based evaluation, with guidance on judge calibration and continuous regression testing. `Article` · `Free to read`
-
-<!-- markdownlint-disable-next-line MD013 -->
-- [AI Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/#how-to-use-this-faq) — A practical FAQ covering eval fundamentals, error analysis, evaluator design, human annotation, tooling, production use, and domain-specific workflows. `FAQ` · `Free to read`
 
 ## Metrics
 
@@ -175,8 +180,6 @@ interpret AI evaluations.
   `Paid/Subscription`
 <!-- markdownlint-disable-next-line MD013 -->
 - [AI Evals Advanced Masterclass in Under 57 Minutes](https://www.youtube.com/watch?v=ztN6bE_FuQQ) — A masterclass with Daniel McKinnon on building agentic evals, including offline testing, task-based evaluation, domain expertise, and repeated sampling. `Video` · `Free to watch`
-<!-- markdownlint-disable-next-line MD013 -->
-- [Stanford CME 295: LLM Evaluation (Autumn 2025, Lecture 8)](https://youtu.be/8fNP4N46RRo) — A Stanford lecture covering human agreement, rule-based metrics, LLM judges and their biases, agent evaluation, and benchmark examples. `Video` · `Free to watch`
 
 ## Contributing
 
