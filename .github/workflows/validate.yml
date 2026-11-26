@@ -24,7 +24,7 @@ jobs:
         run: python scripts/check_duplicates.py
 
       - name: Validate Markdown
-        run: npx --yes markdownlint-cli2@0.18.1 README.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md
+        run: npx --yes markdownlint-cli2@0.18.1 README.md GLOSSARY.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md
 
       - name: Check links
-        run: npx --yes markdown-link-check@3.13.7 README.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md
+        run: npx --yes markdown-link-check@3.13.7 README.md GLOSSARY.md CONTRIBUTING.md CODE_OF_CONDUCT.md .github/pull_request_template.md

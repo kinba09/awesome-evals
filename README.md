@@ -11,6 +11,9 @@ then use the methodology and metrics sections to choose an approach that fits
 your system and evaluation goals. Each entry should explain what the resource
 is and why it is useful.
 
+Use the [Technical Terms Glossary](GLOSSARY.md) for definitions of evaluation,
+benchmarking, agent, reinforcement learning, and post-training terminology.
+
 ## Table of Contents
 
 - [Evaluation Fundamentals](#evaluation-fundamentals)
