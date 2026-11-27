@@ -133,6 +133,8 @@ environments used to train and evaluate language model agents.
 
 <!-- markdownlint-disable-next-line MD013 -->
 - [The Ultimate Guide to RL Environments: Building and Scaling Them in the LLM Era](https://huggingface.co/spaces/AdithyaSK/rl-environments-guide#introduction) — A Hugging Face guide comparing environment frameworks, reward design, and scaling approaches for LLM training; it notes that framework APIs and ecosystem maturity are changing quickly. `Guide` · `Free to read`
+<!-- markdownlint-disable-next-line MD013 -->
+- [RL Environments: Tutorial & Examples](https://www.patronus.ai/guide-to-rl-environments) — An introductory guide to environment components with a LangGraph chatbot example; its training demo updates prompts from reward signals rather than model weights. `Tutorial` · `Free to read`
 
 ## RAG Evaluation
 
